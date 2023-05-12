@@ -24,5 +24,7 @@ A comprehensive analysis on the current state of the memecoin frenzy. Our object
 ## Methodology
 
 Created By: [Biff Buster]()
+
 Sourced For: [MetricsDAO]()
+
 Data: [Sentio]()
